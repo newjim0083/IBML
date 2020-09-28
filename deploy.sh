@@ -99,3 +99,4 @@ if [ $? -ne 0 ]; then
     $CF logs $IBM_APP_NAME --recent
     exit 1
 fi
+
